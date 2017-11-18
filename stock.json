@@ -1,0 +1,577 @@
+{
+    "57921": {
+        "price": 242,
+        "in_stock": 1,
+        "priority": 1
+    },
+    "57911": {
+        "price": 260,
+        "in_stock": 1,
+        "priority": 1
+    },
+    "57988": {
+        "price": 566,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57111": {
+        "price": 464,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "46718": {
+        "price": 582,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "53464": {
+        "price": 187,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53282": {
+        "price": 1059,
+        "in_stock": 1,
+        "priority": 0
+    },
+    "56994": {
+        "price": 872,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "13575": {
+        "price": 354,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "2512": {
+        "price": 904,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "53513": {
+        "price": 404,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47990": {
+        "price": 234,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "46983": {
+        "price": 200,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "39885": {
+        "price": 354,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "54501": {
+        "price": 582,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53514": {
+        "price": 443,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53284": {
+        "price": 1077,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52652": {
+        "price": 322,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "44651": {
+        "price": 241,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "39884": {
+        "price": 368,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "30253": {
+        "price": 839,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "29330": {
+        "price": 1100,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "25818": {
+        "price": 341,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "15319": {
+        "price": 267,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "13992": {
+        "price": 354,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57931": {
+        "price": 1657,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57085": {
+        "price": 1149,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "55720": {
+        "price": 1270,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53285": {
+        "price": 1352,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52240": {
+        "price": 428,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50911": {
+        "price": 237,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50906": {
+        "price": 174,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47369": {
+        "price": 279,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "44985": {
+        "price": 839,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "30690": {
+        "price": 387,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "30205": {
+        "price": 712,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "25498": {
+        "price": 598,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "3685": {
+        "price": 878,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "2752": {
+        "price": 839,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "2705": {
+        "price": 839,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "57934": {
+        "price": 1436,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57481": {
+        "price": 521,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57086": {
+        "price": 899,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "56995": {
+        "price": 980,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "56993": {
+        "price": 817,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "56803": {
+        "price": 484,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "56802": {
+        "price": 354,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "56196": {
+        "price": 748,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "55660": {
+        "price": 1364,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "53516": {
+        "price": 404,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53515": {
+        "price": 404,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53035": {
+        "price": 644,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52289": {
+        "price": 549,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52283": {
+        "price": 1349,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52282": {
+        "price": 1349,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52280": {
+        "price": 452,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52238": {
+        "price": 529,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "51724": {
+        "price": 1349,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "51002": {
+        "price": 508,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50942": {
+        "price": 279,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47849": {
+        "price": 1188,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47795": {
+        "price": 279,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47404": {
+        "price": 598,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "46745": {
+        "price": 517,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "45556": {
+        "price": 387,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "44800": {
+        "price": 517,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "39025": {
+        "price": 874,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "38036": {
+        "price": 334,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "36785": {
+        "price": 1069,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "30360": {
+        "price": 267,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "25520": {
+        "price": 499,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "24460": {
+        "price": 839,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "16371": {
+        "price": 187,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "16059": {
+        "price": 237,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "15727": {
+        "price": 211,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "2528": {
+        "price": 904,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "57971": {
+        "price": 427,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57731": {
+        "price": 339,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57340": {
+        "price": 614,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "54803": {
+        "price": 234,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53403": {
+        "price": 321,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "16373": {
+        "price": 187,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "51695": {
+        "price": 449,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50947": {
+        "price": 415,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50935": {
+        "price": 424,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50910": {
+        "price": 407,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47938": {
+        "price": 200,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "47794": {
+        "price": 200,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "40128": {
+        "price": 180,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "15732": {
+        "price": 245,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "15656": {
+        "price": 211,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "15655": {
+        "price": 211,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52290": {
+        "price": 614,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52272": {
+        "price": 484,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "33243": {
+        "price": 387,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "46721": {
+        "price": 1069,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "45971": {
+        "price": 393,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "43974": {
+        "price": 393,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "34073": {
+        "price": 1382,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50859": {
+        "price": 517,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "48197": {
+        "price": 675,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "43221": {
+        "price": 535,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "30977": {
+        "price": 508,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "25499": {
+        "price": 616,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "25288": {
+        "price": 341,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "44235": {
+        "price": 697,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "52298": {
+        "price": 754,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "50870": {
+        "price": 428,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "43456": {
+        "price": 1364,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "29574": {
+        "price": 1206,
+        "in_stock": 1,
+        "priority": 5
+    },
+    "57737": {
+        "price": 257,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "57735": {
+        "price": 293,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53817": {
+        "price": 358,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53524": {
+        "price": 395,
+        "in_stock": 1,
+        "priority": 3
+    },
+    "53519": {
+        "price": 450,
+        "in_stock": 1,
+        "priority": 3
+    }
+}

@@ -1,0 +1,221 @@
+
+#mlProductPopup {
+    opacity: 0;
+    visibility: 'hidden';
+    
+}
+
+/* .product.s-grid-3.product-main-wrap {
+    display: none; 
+}
+
+.product.s-grid-3.product-main-wrap:nth-child(-n+60) {
+    display: block;
+}
+ */
+
+.visible-item {
+    display: none;
+}
+
+.toggleButton{
+    display: block;
+    color: #fff;
+    border-radius: 3px;
+    padding: 15px 20px 15px 20px;
+    background: #fc2a31;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+.toggleButton:hover {
+    display: block;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: 0px 0px 0px 1px #fff inset;
+    padding: 15px 20px 15px 20px;
+    background: #fc2a31;
+    margin: 20px auto;
+    font-size: 20px;
+}
+
+#mlSuggesterPopup {
+    text-align: center;
+    visibility: hidden;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transition: opacity 0.8s ease-in-out;
+    transition: opacity 0.8s ease-in-out;
+    z-index: 110;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: radial-gradient(ellipse farthest-corner at center center,
+                                     rgba(127, 127, 127, 0.5), 
+                                     rgba(127, 127, 127, 0.5) 35%, 
+                                     rgba(0, 0, 0, 0.7) 100%) !important;
+}
+
+#mlSuggesterPopup .content{
+    font-family: 'Open Sans',
+    sans-serif;
+    color: #051023;
+    line-height: 1.5;
+    text-align: center;
+    padding: 50px 20px 30px;
+    position: relative;
+    z-index: 120;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    
+    max-width: 900px;
+    width: calc(80%);
+}
+
+#mlSuggesterPopup .title {
+    font-size: 36px;
+    padding-bottom: 5px;
+    margin: 0;
+    color: #fff
+}
+
+#mlSuggesterPopup .bonuses {
+    width: 100%;
+}
+
+.row::before,
+.row::after,
+.box::before,
+.box::after,
+.product::before,
+.product::after,
+.s-row::before,
+.s-row::after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+#mlSuggesterPopup .description {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0 auto;
+    font-weight: 100;
+    line-height: 40px;
+    max-width: 450px;
+    min-height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    color: #fff
+}
+
+#mlSuggesterPopup .flexContainer {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+#mlSuggesterPopup .flexItem {
+    flex: 0 1 auto;
+    align-self: auto;
+    padding: 0 20px 0 20px;
+    color: #fff;
+}
+
+/* #mlSuggesterPopup .flexItem:after {
+    content: '';
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(0, -100%);
+    z-index: -1;
+} */
+[type="radio"] {
+    -webkit-appearance: checkbox;
+    /* Chrome, Safari, Opera */
+    -moz-appearance: checkbox;
+    /* Firefox */
+    -ms-appearance: checkbox;
+    /* not currently supported */
+}
+.price {
+    display: block;
+}
+
+
+table {
+    margin: auto;
+}
+
+td {
+    text-align: center;
+    padding: 0 20px 0 20px;
+    color: #fff;
+}
+
+.line td {
+    position: relative;
+}
+
+
+.line td:last-child:after {
+    display: none;
+}
+
+#mlSuggesterPopup .content {
+    background-color: rgb(12, 29, 48, .95)
+}
+
+.person {
+    margin-left: 10px;
+}
+
+label {
+    font-size: 15px !important;
+}
+
+.flexItem .price {
+    margin: 0 auto;
+}
+
+.flexItem input:after {
+    content: '';
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(0, -100%);
+    z-index: -1;
+}
+
+#mlSuggesterPopup .close {
+    position: absolute;
+    left: 100%;
+    top: 0;
+    margin: -8px 0 0 -12px;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #5c5c5c;
+    cursor: pointer;
+    z-index: 1;
+}
